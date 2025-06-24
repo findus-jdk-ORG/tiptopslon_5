@@ -1,7 +1,7 @@
 const companyConfig = {
     companyName: "VANDAN LINING WORKS",
     slogan: "Innovating for a better tomorrow",
-    logoUrl: "logo.jpeg",
+    logoUrl: "logo1.jpg",
     contact: {
         phone: "+919510961927",
     },
